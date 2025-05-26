@@ -8,6 +8,7 @@ public class RecursiveFibonacci {
         return fibonacci(n - 1) + fibonacci(n - 2);
     }
 
+    Đây nhà nhánh trước nhaa
     public static void main(String[] args) {
         int count = 10;
         System.out.print("Dãy Fibonacci (đệ quy): ")
