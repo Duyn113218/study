@@ -9,11 +9,3 @@ public class RecursiveFibonacci {
     }
 
     Đây nhà nhánh trước nhaa
-    public static void main(String[] args) {
-        int count = 10;
-        System.out.print("Dãy Fibonacci (đệ quy): ")
-        for (int i = 0; i < count; i++) {
-            System.out.print(fibonacci(i) + " ");
-        }
-    }
-}
